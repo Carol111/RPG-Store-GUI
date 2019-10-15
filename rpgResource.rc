@@ -1,0 +1,131 @@
+
+// Resource
+
+//-------------------------------------------------------------------------------------------------
+
+#include "windows.h"
+#include "rpgResource.h"
+
+ID_RPGICON ICON "img\\icones\\rpg.ico"
+
+// Buttons Inicio
+
+ID_BUTTONCOMPRA BITMAP "img\\bitmaps\\button\\buttonCompra.bmp"
+
+ID_BUTTONVENDA BITMAP "img\\bitmaps\\button\\buttonVenda.bmp"
+
+ID_BUTTONSAIR BITMAP "img\\bitmaps\\button\\buttonSair.bmp"
+
+// Butons Compra
+
+ID_BUTTONREALIZACOMPRA BITMAP "img\\bitmaps\\button\\buttonRealizaCompra.bmp"
+
+ID_BUTTONARMAS BITMAP "img\\bitmaps\\button\\buttonArma.bmp"
+
+ID_BUTTONESCUDO BITMAP "img\\bitmaps\\button\\buttonEscudo.bmp"
+
+ID_BUTTONELMO BITMAP "img\\bitmaps\\button\\buttonElmo.bmp"
+
+ID_BUTTONARMADURA BITMAP "img\\bitmaps\\button\\buttonArmadura.bmp"
+
+ID_BUTTONACESSORIO BITMAP "img\\bitmaps\\button\\buttonAcessorio.bmp"
+
+ID_BUTTONCONSUMO BITMAP "img\\bitmaps\\button\\buttonConsumo.bmp"
+
+ID_BUTTONBOLSA BITMAP "img\\bitmaps\\button\\buttonBolsa.bmp"
+
+// Butons Venda
+
+ID_BUTTONREALIZAVENDA BITMAP "img\\bitmaps\\button\\buttonRealizaVenda.bmp"
+
+// Button Compra/Venda
+
+ID_BUTTONRETORNO BITMAP "img\\bitmaps\\button\\buttonRetorno.bmp"
+
+// Lista de Armas
+
+ID_ARMA_SHORTSWORD ICON "img\\icones\\item\\arma\\Shortsword.ico"
+
+ID_ARMA_BARONG ICON "img\\icones\\item\\arma\\Barong.ico"
+
+ID_ARMA_RONDELLDAGGER ICON "img\\icones\\item\\arma\\Rondell_Dagger.ico"
+
+ID_ARMA_JAMBIYA ICON "img\\icones\\item\\arma\\Jambiya.ico"
+
+ID_ARMA_CURESTAFF ICON "img\\icones\\item\\arma\\Cure_Staff.ico"
+
+ID_ARMA_PURESTAFF ICON "img\\icones\\item\\arma\\Pure_Staff.ico"
+
+ID_ARMA_FORCEROD ICON "img\\icones\\item\\arma\\Force_Rod.ico"
+
+ID_ARMA_SLEETROD ICON "img\\icones\\item\\arma\\Sleet_Rod.ico"
+
+ID_ARMA_LONGBOW ICON "img\\icones\\item\\arma\\Longbow.ico"
+
+ID_ARMA_MITHRILBOW ICON "img\\icones\\item\\arma\\Mithril_Bow.ico"
+
+// Lista Escudo
+
+ID_ESCUDO_ROUNDSHIELD ICON "img\\icones\\item\\escudo\\Round_Shield.ico"
+
+ID_ESCUDO_OPALSHIELD ICON "img\\icones\\item\\escudo\\Opal_Shield.ico"
+
+ID_ESCUDO_FLAMESHIELD ICON "img\\icones\\item\\escudo\\Flame_Shield.ico"
+
+ID_ESCUDO_REVERIESHIELD ICON "img\\icones\\item\\escudo\\Reverie_Shield.ico"
+
+ID_ESCUDO_SACRISHIELD ICON "img\\icones\\item\\escudo\\Sacri_Shield.ico"
+
+// Lista Elmo
+
+ID_ELMO_IRONHELM ICON "img\\icones\\item\\elmo\\Iron_Helm.ico"
+
+ID_ELMO_CIRCLET ICON "img\\icones\\item\\elmo\\Circlet.ico"
+
+ID_ELMO_FEATHER ICON "img\\icones\\item\\elmo\\Feather.ico"
+
+ID_ELMO_BERETTE ICON "img\\icones\\item\\elmo\\Barette.ico"
+
+ID_ELMO_HEADBAND ICON "img\\icones\\item\\elmo\\Headband.ico"
+
+// Lista Armadura
+
+ID_ARMADURA_DIAMONDARMOR ICON "img\\icones\\item\\armadura\\Diamond_Armor.ico"
+
+ID_ARMADURA_MIRAGEVEST ICON "img\\icones\\item\\armadura\\Mirage_Vest.ico"
+
+ID_ARMADURA_LIGHTROBE ICON "img\\icones\\item\\armadura\\Light_Robe.ico"
+
+ID_ARMADURA_DARKROBE ICON "img\\icones\\item\\armadura\\Dark_Robe.ico"
+
+ID_ARMADURA_PEYTRAL ICON "img\\icones\\item\\armadura\\Peytral.ico"
+
+// Lista Acessorio
+
+ID_ACESSORIO_BATTLEBOOTS ICON "img\\icones\\item\\acessorio\\Battle_Boots.ico"
+
+ID_ACESSORIO_SPARKBOOTS ICON "img\\icones\\item\\acessorio\\Spark_Boots.ico"
+
+ID_ACESSORIO_MAGICRING ICON "img\\icones\\item\\acessorio\\Magic_Ring.ico"
+
+ID_ACESSORIO_SCARAB ICON "img\\icones\\item\\acessorio\\Scarab.ico"
+
+ID_ACESSORIO_FAIRYSHOES ICON "img\\icones\\item\\acessorio\\Fairy_Shoes.ico"
+
+// Lista Consumo
+
+ID_CONSUMO_HEALTHPOTION ICON "img\\icones\\item\\consumo\\Health_Potion.ico"
+
+ID_CONSUMO_MANAPOTION ICON "img\\icones\\item\\consumo\\Mana_Potion.ico"
+
+ID_CONSUMO_ANTIDOTE ICON "img\\icones\\item\\consumo\\Antidote.ico"
+
+ID_CONSUMO_SOFT ICON "img\\icones\\item\\consumo\\Soft.ico"
+
+ID_CONSUMO_ELIXIR ICON "img\\icones\\item\\consumo\\Elixir.ico"
+
+// Lista Bolsa
+
+ID_BOLSA_BOLSA ICON "img\\icones\\item\\bolsa\\Bolsa.ico"
+
+ID_BOLSA_BAU ICON "img\\icones\\item\\bolsa\\Bau.ico"

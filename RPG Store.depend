@@ -1,0 +1,110 @@
+# depslib dependency file v1.0
+1407021107 source:c:\users\carol\dropbox\rpg store\bolsa.cpp
+	"Bolsa.h"
+
+1407021107 c:\users\carol\dropbox\rpg store\bolsa.h
+	"Item.h"
+	<iostream>
+	<cstring>
+
+1407429282 c:\users\carol\dropbox\rpg store\item.h
+	<iostream>
+	<cstring>
+
+1407429282 source:c:\users\carol\dropbox\rpg store\consumivel.cpp
+	"Consumivel.h"
+	<iostream>
+	<cstring>
+
+1407283762 c:\users\carol\dropbox\rpg store\consumivel.h
+	"Item.h"
+	<iostream>
+	<cstring>
+
+1407429985 source:c:\users\carol\dropbox\rpg store\equipamento.cpp
+	"Equipamento.h"
+
+1407284244 c:\users\carol\dropbox\rpg store\equipamento.h
+	"Item.h"
+	<iostream>
+	<cstring>
+
+1407468194 source:c:\users\carol\dropbox\rpg store\inventario.cpp
+	"Inventario.h"
+	<cstring>
+	<iomanip>
+	<stdlib.h>
+
+1407462574 c:\users\carol\dropbox\rpg store\inventario.h
+	"Item.h"
+	"Equipamento.h"
+	"Consumivel.h"
+	"Bolsa.h"
+
+1407429282 source:c:\users\carol\dropbox\rpg store\item.cpp
+	"Item.h"
+
+1407426692 source:c:\users\carol\dropbox\rpg store\jogador.cpp
+	"Jogador.h"
+
+1407376228 c:\users\carol\dropbox\rpg store\jogador.h
+	"Inventario.h"
+
+1407467876 source:c:\users\carol\dropbox\rpg store\loja.cpp
+	"Loja.h"
+	<iostream>
+	<iomanip>
+
+1407425337 c:\users\carol\dropbox\rpg store\loja.h
+	"Consumivel.h"
+	"Equipamento.h"
+	"Inventario.h"
+	"Item.h"
+	"Bolsa.h"
+	"Jogador.h"
+	<stdlib.h>
+
+1407463763 source:c:\users\carol\dropbox\rpg store\main.cpp
+	"Jogador.h"
+	"Loja.h"
+	"Inicio.h"
+	<stdlib.h>
+
+1407420109 c:\users\carol\dropbox\rpg store\inicio.h
+	"Tela.h"
+	"Jogador.h"
+	"Compra.h"
+	"Venda.h"
+	"Loja.h"
+	"Inventario.h"
+
+1407333220 c:\users\carol\dropbox\rpg store\tela.h
+	"stdlib.h"
+
+1407376228 c:\users\carol\dropbox\rpg store\compra.h
+	"Tela.h"
+	"Jogador.h"
+	"Loja.h"
+
+1407462706 c:\users\carol\dropbox\rpg store\venda.h
+	"Tela.h"
+	"Jogador.h"
+	"Loja.h"
+
+1406938987 source:c:\users\carol\dropbox\rpg store\tela.cpp
+	"Tela.h"
+	<iostream>
+
+1407464567 source:c:\users\carol\dropbox\rpg store\compra.cpp
+	"Compra.h"
+	<iostream>
+	<stdlib.h>
+
+1407464567 source:c:\users\carol\dropbox\rpg store\inicio.cpp
+	"Inicio.h"
+	<iostream>
+
+1407464688 source:c:\users\carol\dropbox\rpg store\venda.cpp
+	"Venda.h"
+	<iostream>
+

@@ -1,0 +1,267 @@
+# depslib dependency file v1.0
+1407772790 source:c:\users\carol\univasf\poo\rpg store\rpg store gui\bolsa.cpp
+	"Bolsa.h"
+
+1407772819 c:\users\carol\univasf\poo\rpg store\rpg store gui\bolsa.h
+	"Item.h"
+	<iostream>
+	<cstring>
+
+1407772810 c:\users\carol\univasf\poo\rpg store\rpg store gui\item.h
+	<iostream>
+	<cstring>
+
+1408562188 source:c:\users\carol\univasf\poo\rpg store\rpg store gui\compra.cpp
+	"Compra.h"
+	"rpgResource.h"
+	<iostream>
+	<stdio.h>
+	<windowsx.h>
+
+1408562188 c:\users\carol\univasf\poo\rpg store\rpg store gui\compra.h
+	<windows.h>
+	<commctrl.h>
+	"Tela.h"
+	"Jogador.h"
+	"Loja.h"
+
+1407618572 c:\users\carol\univasf\poo\rpg store\rpg store gui\tela.h
+	<windows.h>
+	"stdlib.h"
+
+1407629070 c:\users\carol\univasf\poo\rpg store\rpg store gui\jogador.h
+	"Inventario.h"
+
+1408459590 c:\users\carol\univasf\poo\rpg store\rpg store gui\inventario.h
+	"Item.h"
+	"Equipamento.h"
+	"Consumivel.h"
+	"Bolsa.h"
+	"rpgResource.h"
+	<stdlib.h>
+	<windows.h>
+	<commctrl.h>
+	<iostream>
+	<iomanip>
+	<stdio.h>
+	<cstring>
+
+1407772832 c:\users\carol\univasf\poo\rpg store\rpg store gui\equipamento.h
+	"Item.h"
+	<iostream>
+	<cstring>
+
+1407772826 c:\users\carol\univasf\poo\rpg store\rpg store gui\consumivel.h
+	"Item.h"
+	<iostream>
+	<cstring>
+
+1408456993 c:\users\carol\univasf\poo\rpg store\rpg store gui\loja.h
+	"Consumivel.h"
+	"Equipamento.h"
+	"Inventario.h"
+	"Item.h"
+	"Bolsa.h"
+	"Jogador.h"
+	<stdlib.h>
+	<windows.h>
+	<commctrl.h>
+	<iostream>
+	<iomanip>
+	<stdio.h>
+	<cstring>
+
+1407772790 source:c:\users\carol\univasf\poo\rpg store\rpg store gui\consumivel.cpp
+	"Consumivel.h"
+	<iostream>
+	<cstring>
+
+1407772790 source:c:\users\carol\univasf\poo\rpg store\rpg store gui\equipamento.cpp
+	"Equipamento.h"
+
+1407682521 source:c:\users\carol\univasf\poo\rpg store\rpg store gui\inicio.cpp
+	"Inicio.h"
+	<iostream>
+	"rpgResource.h"
+
+1407674294 c:\users\carol\univasf\poo\rpg store\rpg store gui\inicio.h
+	<windows.h>
+	"Tela.h"
+	"Jogador.h"
+	"Compra.h"
+	"Venda.h"
+	"Loja.h"
+	"Inventario.h"
+
+1408562188 c:\users\carol\univasf\poo\rpg store\rpg store gui\venda.h
+	<windows.h>
+	"Tela.h"
+	"Jogador.h"
+	"Loja.h"
+
+1408561526 source:c:\users\carol\univasf\poo\rpg store\rpg store gui\inventario.cpp
+	"Inventario.h"
+	<cstring>
+	<iomanip>
+	<stdlib.h>
+
+1407772790 source:c:\users\carol\univasf\poo\rpg store\rpg store gui\item.cpp
+	"Item.h"
+
+1407629070 source:c:\users\carol\univasf\poo\rpg store\rpg store gui\jogador.cpp
+	"Jogador.h"
+
+1408562188 source:c:\users\carol\univasf\poo\rpg store\rpg store gui\loja.cpp
+	"Loja.h"
+	"rpgResource.h"
+
+1408323677 source:c:\users\carol\univasf\poo\rpg store\rpg store gui\rpgresource.rc
+	"windows.h"
+	"rpgResource.h"
+
+1408325951 c:\users\carol\univasf\poo\rpg store\rpg store gui\rpgresource.h
+
+1407610829 source:c:\users\carol\univasf\poo\rpg store\rpg store gui\tela.cpp
+	"Tela.h"
+	<iostream>
+
+1408562188 source:c:\users\carol\univasf\poo\rpg store\rpg store gui\venda.cpp
+	"Venda.h"
+	"rpgResource.h"
+	<iostream>
+	<stdio.h>
+	<windowsx.h>
+
+1408460823 source:c:\users\carol\univasf\poo\rpg store\rpg store gui\main.cpp
+	<tchar.h>
+	<windows.h>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	"rpgResource.h"
+	"Jogador.h"
+	"Loja.h"
+	"Inicio.h"
+
+1407021107 source:c:\users\carol\rpg store gui\bolsa.cpp
+	"Bolsa.h"
+
+1407021107 c:\users\carol\rpg store gui\bolsa.h
+	"Item.h"
+	<iostream>
+	<cstring>
+
+1407429282 c:\users\carol\rpg store gui\item.h
+	<iostream>
+	<cstring>
+
+1407610864 source:c:\users\carol\rpg store gui\compra.cpp
+	"Compra.h"
+	<iostream>
+	<stdlib.h>
+
+1407610829 c:\users\carol\rpg store gui\compra.h
+	<windows.h>
+	"Tela.h"
+	"Jogador.h"
+	"Loja.h"
+
+1407618572 c:\users\carol\rpg store gui\tela.h
+	<windows.h>
+	"stdlib.h"
+
+1407376228 c:\users\carol\rpg store gui\jogador.h
+	"Inventario.h"
+
+1407462574 c:\users\carol\rpg store gui\inventario.h
+	"Item.h"
+	"Equipamento.h"
+	"Consumivel.h"
+	"Bolsa.h"
+
+1407284244 c:\users\carol\rpg store gui\equipamento.h
+	"Item.h"
+	<iostream>
+	<cstring>
+
+1407283762 c:\users\carol\rpg store gui\consumivel.h
+	"Item.h"
+	<iostream>
+	<cstring>
+
+1407425337 c:\users\carol\rpg store gui\loja.h
+	"Consumivel.h"
+	"Equipamento.h"
+	"Inventario.h"
+	"Item.h"
+	"Bolsa.h"
+	"Jogador.h"
+	<stdlib.h>
+
+1407429282 source:c:\users\carol\rpg store gui\consumivel.cpp
+	"Consumivel.h"
+	<iostream>
+	<cstring>
+
+1407429985 source:c:\users\carol\rpg store gui\equipamento.cpp
+	"Equipamento.h"
+
+1407619351 source:c:\users\carol\rpg store gui\inicio.cpp
+	"Inicio.h"
+	<iostream>
+	"rpgResource.h"
+
+1407619351 c:\users\carol\rpg store gui\inicio.h
+	<windows.h>
+	"Tela.h"
+	"Jogador.h"
+	"Compra.h"
+	"Venda.h"
+	"Loja.h"
+	"Inventario.h"
+
+1407462706 c:\users\carol\rpg store gui\venda.h
+	"Tela.h"
+	"Jogador.h"
+	"Loja.h"
+
+1407621359 c:\users\carol\rpg store gui\rpgresource.h
+
+1407468194 source:c:\users\carol\rpg store gui\inventario.cpp
+	"Inventario.h"
+	<cstring>
+	<iomanip>
+	<stdlib.h>
+
+1407429282 source:c:\users\carol\rpg store gui\item.cpp
+	"Item.h"
+
+1407426692 source:c:\users\carol\rpg store gui\jogador.cpp
+	"Jogador.h"
+
+1407468331 source:c:\users\carol\rpg store gui\loja.cpp
+	"Loja.h"
+	<iostream>
+	<iomanip>
+
+1407622072 source:c:\users\carol\rpg store gui\main.cpp
+	<tchar.h>
+	<windows.h>
+	<stdlib.h>
+	"rpgResource.h"
+	"Jogador.h"
+	"Loja.h"
+	"Inicio.h"
+
+1407621089 source:c:\users\carol\rpg store gui\rpgresource.rc
+	"windows.h"
+	"rpgResource.h"
+
+1407610829 source:c:\users\carol\rpg store gui\tela.cpp
+	"Tela.h"
+	<iostream>
+
+1407464688 source:c:\users\carol\rpg store gui\venda.cpp
+	"Venda.h"
+	<iostream>
+

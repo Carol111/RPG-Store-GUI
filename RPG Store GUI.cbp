@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="RPG Store GUI" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/RPG Store GUI" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/RPG Store GUI" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Linker>
+			<Add library="gdi32" />
+			<Add library="user32" />
+			<Add library="kernel32" />
+			<Add library="comctl32" />
+		</Linker>
+		<Unit filename="Bolsa.cpp" />
+		<Unit filename="Bolsa.h" />
+		<Unit filename="Compra.cpp" />
+		<Unit filename="Compra.h" />
+		<Unit filename="Consumivel.cpp" />
+		<Unit filename="Consumivel.h" />
+		<Unit filename="Equipamento.cpp" />
+		<Unit filename="Equipamento.h" />
+		<Unit filename="Inicio.cpp" />
+		<Unit filename="Inicio.h" />
+		<Unit filename="Inventario.cpp" />
+		<Unit filename="Inventario.h" />
+		<Unit filename="Item.cpp" />
+		<Unit filename="Item.h" />
+		<Unit filename="Jogador.cpp" />
+		<Unit filename="Jogador.h" />
+		<Unit filename="Loja.cpp" />
+		<Unit filename="Loja.h" />
+		<Unit filename="Tela.cpp" />
+		<Unit filename="Tela.h" />
+		<Unit filename="Venda.cpp" />
+		<Unit filename="Venda.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="rpgResource.h" />
+		<Unit filename="rpgResource.rc">
+			<Option compilerVar="WINDRES" />
+		</Unit>
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
